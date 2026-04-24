@@ -1,5 +1,5 @@
 # Omar Ait El Aouad 
-=====================
+====================
 
 AI/ML engineer, love to build cool stuff.
 Currently learning programming/ML.
