@@ -1,16 +1,18 @@
-## Hi there 👋
+# Omar Ait El Aouad 
+=====================
 
-<!--
-**Bro862/bro862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML engineer, love to build cool stuff.
+Currently learning programming/ML.
 
-Here are some ideas to get you started:
+--------------------
+Get connect whith me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* LinkdIn    - https://ma.linkedin.com/in/omar-ait-el-aouad-2a5a4232a
+* Email      - omar.dev2@proton.me
+
+--------------
+Skills & Tools
+
+* Backend:     Python
+* Databases:   ...
+* DevOps:      Git, Linux
