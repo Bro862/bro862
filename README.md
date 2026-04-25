@@ -1,8 +1,8 @@
 # Omar Ait El Aouad 
 ====================
 
-AI/ML engineer, love to build cool stuff.
-Currently learning programming/ML.
+AI/ML student, love to build cool stuff.
+Currently studying programming/ML.
 
 --------------------
 Get connect whith me
